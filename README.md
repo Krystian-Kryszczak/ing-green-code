@@ -1,5 +1,7 @@
 ## ING - "Zielona Tesla za Zielony kod"
 
+![CodeQL](https://github.com/Krystian-Kryszczak/ing-green-code/workflows/CodeQL/badge.svg)
+
 #### "Green Tesla for green code" - ING Bank Śląski S.A.
 https://www.ing.pl/pionteching#konkurs
 
@@ -23,3 +25,6 @@ build.sh
 ```
 run.sh
 ```
+
+The code security is tested using [CodeQL](https://codeql.github.com/) tool provided by GitHub. \
+The results are available at https://github.com/Krystian-Kryszczak/ing-green-code/actions/workflows/codeql.yml.
